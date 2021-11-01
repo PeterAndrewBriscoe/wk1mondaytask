@@ -1,20 +1,4 @@
-<<<<<<< HEAD
-body{
-    background-color: #1111;
-    color: gold;
-  }
-  h1{
-    font-size: 40px;
-    font-family: 'Courier New', Courier, monospace;
-    font-weight: bold
-  }
-  p{
-    color:red;
-  }
-  ol{
-      color: red;
-  }
-=======
+
 body{
     background-color: #1111;
     color: gold;
@@ -28,4 +12,4 @@ body{
     color:red;
   }
   
->>>>>>> fbfbce8fc8c540962db601b1aa1b625c507616a6
+
