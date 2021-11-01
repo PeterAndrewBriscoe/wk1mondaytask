@@ -10,4 +10,6 @@ body{
   p{
     color:red;
   }
-  
+  ol{
+      color: red;
+  }
