@@ -1,8 +1,13 @@
-h1{
-    color: rgb(12, 255, 211);
-}
-
-p{
-    color: rgb(12, 255, 211); 
-}
-
+body{
+    background-color: #1111;
+    color: gold;
+  }
+  h1{
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold
+  }
+  p{
+    color:red;
+  }
+  
