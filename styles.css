@@ -11,5 +11,23 @@ body{
   p{
     color:red;
   }
-  
+
+  body > p{
+    font-family: 'Courier New', Courier, monospace;
+  }
+
+  p::first-line{
+    text-transform: capitalize;
+  }
+
+  p:hover{
+    color: slategray;
+  }
+
+  body + li{
+    font-size: 25px;
+  }
+  img{
+    height: 150px;
+  }
 
