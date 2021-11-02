@@ -1,7 +1,7 @@
 
 body{
-    background-color: #f72585;
-    color: gold;
+    background-color: #11d321a2;
+    color: rgba(166, 255, 0, 0.719);
   }
   h1{
     font-size: 40px;
@@ -21,7 +21,10 @@ body{
     text-transform: capitals;
   }
 
-
+#final-list-element{
+  color: #d00000;
+  font-size: large;
+}
 
   body + li{
     font-size: 25px;
