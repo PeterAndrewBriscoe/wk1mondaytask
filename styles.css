@@ -1,15 +1,16 @@
 
 body{
-    background-color: #1111;
+    background-color: #f72585;
     color: gold;
   }
   h1{
     font-size: 40px;
     font-family: 'Courier New', Courier, monospace;
-    font-weight: bold
+    font-weight: bold;
+    color: #560bad;
   }
   p{
-    color:red;
+    color:#3f37c9;
   }
 
   body > p{
