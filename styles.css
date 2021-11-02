@@ -51,7 +51,7 @@ body{
     height: 150px;
   }
   #fun_facts{
-    background: yellow;
+    background: red;
     border: solid rgb(3, 65, 3);
   }
   #fun_facts:hover{
