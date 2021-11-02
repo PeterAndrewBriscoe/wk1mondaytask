@@ -13,11 +13,11 @@ body{
     color:#3f37c9;
   }
 
-  table{
+  div{
     background: slategray;
     border: white;
   }
-  table:hover{
+  div:hover{
     background: darkgray;
   }
 
