@@ -13,6 +13,14 @@ body{
     color:#3f37c9;
   }
 
+  table{
+    background: slategray;
+    border: white;
+  }
+  table:hover{
+    background: darkgray;
+  }
+
   body > p{
     font-family: 'Courier New', Courier, monospace;
   }
