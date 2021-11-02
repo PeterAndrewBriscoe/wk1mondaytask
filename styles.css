@@ -17,12 +17,10 @@ body{
   }
 
   p::first-line{
-    text-transform: capitalize;
+    text-transform: capitals;
   }
 
-  body:hover{
-    color: slategray;
-  }
+
 
   body + li{
     font-size: 25px;
