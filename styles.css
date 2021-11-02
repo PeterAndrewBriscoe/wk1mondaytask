@@ -15,7 +15,7 @@ body{
 
   div{
     background: slategray;
-    border: white;
+    border: solid green;
   }
   div:hover{
     background: darkgray;
@@ -49,5 +49,12 @@ body{
   }
   img{
     height: 150px;
+  }
+  #fun_facts{
+    background: yellow;
+    border: solid rgb(3, 65, 3);
+  }
+  #fun_facts:hover{
+    background: orange;
   }
 
